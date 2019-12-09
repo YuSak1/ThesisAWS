@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/196/196_0.png
+/data/img/train/196/196_1.png
+/data/img/train/196/196_2.png
+/data/img/train/196/196_3.png
+/data/img/train/196/196_4.png
+/data/img/train/196/196_5.png
+/data/img/train/196/196_6.png
+/data/img/train/196/196_7.png
+/data/img/train/196/196_8.png
+/data/img/train/196/196_9.png
+/data/img/train/196/196_10.png
+/data/img/train/196/196_11.png
+/data/img/train/196/196_12.png
+/data/img/train/196/196_13.png
+/data/img/train/196/196_14.png

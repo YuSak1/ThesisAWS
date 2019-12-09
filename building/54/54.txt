@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/54/54_0.png
+/data/img/train/54/54_1.png
+/data/img/train/54/54_2.png
+/data/img/train/54/54_3.png
+/data/img/train/54/54_4.png
+/data/img/train/54/54_5.png
+/data/img/train/54/54_6.png
+/data/img/train/54/54_7.png
+/data/img/train/54/54_8.png
+/data/img/train/54/54_9.png
+/data/img/train/54/54_10.png
+/data/img/train/54/54_11.png
+/data/img/train/54/54_12.png
+/data/img/train/54/54_13.png
+/data/img/train/54/54_14.png

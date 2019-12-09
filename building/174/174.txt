@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/174/174_0.png
+/data/img/train/174/174_1.png
+/data/img/train/174/174_2.png
+/data/img/train/174/174_3.png
+/data/img/train/174/174_4.png
+/data/img/train/174/174_5.png
+/data/img/train/174/174_6.png
+/data/img/train/174/174_7.png
+/data/img/train/174/174_8.png
+/data/img/train/174/174_9.png
+/data/img/train/174/174_10.png
+/data/img/train/174/174_11.png
+/data/img/train/174/174_12.png
+/data/img/train/174/174_13.png
+/data/img/train/174/174_14.png
