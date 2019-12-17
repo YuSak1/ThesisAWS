@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/D33/D33_0.png
+/data/img/train/D33/D33_1.png
+/data/img/train/D33/D33_2.png
+/data/img/train/D33/D33_3.png
+/data/img/train/D33/D33_4.png
+/data/img/train/D33/D33_5.png
+/data/img/train/D33/D33_6.png
+/data/img/train/D33/D33_7.png
+/data/img/train/D33/D33_8.png
+/data/img/train/D33/D33_9.png
+/data/img/train/D33/D33_10.png
+/data/img/train/D33/D33_11.png
+/data/img/train/D33/D33_12.png
+/data/img/train/D33/D33_13.png
+/data/img/train/D33/D33_14.png

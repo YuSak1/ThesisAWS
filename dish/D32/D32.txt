@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/D32/D32_0.png
+/data/img/train/D32/D32_1.png
+/data/img/train/D32/D32_2.png
+/data/img/train/D32/D32_3.png
+/data/img/train/D32/D32_4.png
+/data/img/train/D32/D32_5.png
+/data/img/train/D32/D32_6.png
+/data/img/train/D32/D32_7.png
+/data/img/train/D32/D32_8.png
+/data/img/train/D32/D32_9.png
+/data/img/train/D32/D32_10.png
+/data/img/train/D32/D32_11.png
+/data/img/train/D32/D32_12.png
+/data/img/train/D32/D32_13.png
+/data/img/train/D32/D32_14.png

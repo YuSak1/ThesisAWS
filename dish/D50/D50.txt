@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/D50/D50_0.png
+/data/img/train/D50/D50_1.png
+/data/img/train/D50/D50_2.png
+/data/img/train/D50/D50_3.png
+/data/img/train/D50/D50_4.png
+/data/img/train/D50/D50_5.png
+/data/img/train/D50/D50_6.png
+/data/img/train/D50/D50_7.png
+/data/img/train/D50/D50_8.png
+/data/img/train/D50/D50_9.png
+/data/img/train/D50/D50_10.png
+/data/img/train/D50/D50_11.png
+/data/img/train/D50/D50_12.png
+/data/img/train/D50/D50_13.png
+/data/img/train/D50/D50_14.png

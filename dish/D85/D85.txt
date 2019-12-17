@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/D85/D85_0.png
+/data/img/train/D85/D85_1.png
+/data/img/train/D85/D85_2.png
+/data/img/train/D85/D85_3.png
+/data/img/train/D85/D85_4.png
+/data/img/train/D85/D85_5.png
+/data/img/train/D85/D85_6.png
+/data/img/train/D85/D85_7.png
+/data/img/train/D85/D85_8.png
+/data/img/train/D85/D85_9.png
+/data/img/train/D85/D85_10.png
+/data/img/train/D85/D85_11.png
+/data/img/train/D85/D85_12.png
+/data/img/train/D85/D85_13.png
+/data/img/train/D85/D85_14.png
