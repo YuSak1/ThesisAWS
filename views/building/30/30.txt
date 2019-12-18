@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/30/30_0.png
+/data/img/train/30/30_1.png
+/data/img/train/30/30_2.png
+/data/img/train/30/30_3.png
+/data/img/train/30/30_4.png
+/data/img/train/30/30_5.png
+/data/img/train/30/30_6.png
+/data/img/train/30/30_7.png
+/data/img/train/30/30_8.png
+/data/img/train/30/30_9.png
+/data/img/train/30/30_10.png
+/data/img/train/30/30_11.png
+/data/img/train/30/30_12.png
+/data/img/train/30/30_13.png
+/data/img/train/30/30_14.png

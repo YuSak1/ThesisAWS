@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/82/82_0.png
+/data/img/train/82/82_1.png
+/data/img/train/82/82_2.png
+/data/img/train/82/82_3.png
+/data/img/train/82/82_4.png
+/data/img/train/82/82_5.png
+/data/img/train/82/82_6.png
+/data/img/train/82/82_7.png
+/data/img/train/82/82_8.png
+/data/img/train/82/82_9.png
+/data/img/train/82/82_10.png
+/data/img/train/82/82_11.png
+/data/img/train/82/82_12.png
+/data/img/train/82/82_13.png
+/data/img/train/82/82_14.png
