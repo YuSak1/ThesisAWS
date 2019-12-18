@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/F45-3/F45-3_0.png
+/data/img/train/F45-3/F45-3_1.png
+/data/img/train/F45-3/F45-3_2.png
+/data/img/train/F45-3/F45-3_3.png
+/data/img/train/F45-3/F45-3_4.png
+/data/img/train/F45-3/F45-3_5.png
+/data/img/train/F45-3/F45-3_6.png
+/data/img/train/F45-3/F45-3_7.png
+/data/img/train/F45-3/F45-3_8.png
+/data/img/train/F45-3/F45-3_9.png
+/data/img/train/F45-3/F45-3_10.png
+/data/img/train/F45-3/F45-3_11.png
+/data/img/train/F45-3/F45-3_12.png
+/data/img/train/F45-3/F45-3_13.png
+/data/img/train/F45-3/F45-3_14.png
