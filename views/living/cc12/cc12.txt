@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/cc12/cc12_0.png
+/data/img/train/cc12/cc12_1.png
+/data/img/train/cc12/cc12_2.png
+/data/img/train/cc12/cc12_3.png
+/data/img/train/cc12/cc12_4.png
+/data/img/train/cc12/cc12_5.png
+/data/img/train/cc12/cc12_6.png
+/data/img/train/cc12/cc12_7.png
+/data/img/train/cc12/cc12_8.png
+/data/img/train/cc12/cc12_9.png
+/data/img/train/cc12/cc12_10.png
+/data/img/train/cc12/cc12_11.png
+/data/img/train/cc12/cc12_12.png
+/data/img/train/cc12/cc12_13.png
+/data/img/train/cc12/cc12_14.png

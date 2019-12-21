@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/co2/co2_0.png
+/data/img/train/co2/co2_1.png
+/data/img/train/co2/co2_2.png
+/data/img/train/co2/co2_3.png
+/data/img/train/co2/co2_4.png
+/data/img/train/co2/co2_5.png
+/data/img/train/co2/co2_6.png
+/data/img/train/co2/co2_7.png
+/data/img/train/co2/co2_8.png
+/data/img/train/co2/co2_9.png
+/data/img/train/co2/co2_10.png
+/data/img/train/co2/co2_11.png
+/data/img/train/co2/co2_12.png
+/data/img/train/co2/co2_13.png
+/data/img/train/co2/co2_14.png

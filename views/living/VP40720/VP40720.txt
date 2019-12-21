@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/VP40720/VP40720_0.png
+/data/img/train/VP40720/VP40720_1.png
+/data/img/train/VP40720/VP40720_2.png
+/data/img/train/VP40720/VP40720_3.png
+/data/img/train/VP40720/VP40720_4.png
+/data/img/train/VP40720/VP40720_5.png
+/data/img/train/VP40720/VP40720_6.png
+/data/img/train/VP40720/VP40720_7.png
+/data/img/train/VP40720/VP40720_8.png
+/data/img/train/VP40720/VP40720_9.png
+/data/img/train/VP40720/VP40720_10.png
+/data/img/train/VP40720/VP40720_11.png
+/data/img/train/VP40720/VP40720_12.png
+/data/img/train/VP40720/VP40720_13.png
+/data/img/train/VP40720/VP40720_14.png

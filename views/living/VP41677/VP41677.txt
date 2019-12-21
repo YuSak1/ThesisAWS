@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/VP41677/VP41677_0.png
+/data/img/train/VP41677/VP41677_1.png
+/data/img/train/VP41677/VP41677_2.png
+/data/img/train/VP41677/VP41677_3.png
+/data/img/train/VP41677/VP41677_4.png
+/data/img/train/VP41677/VP41677_5.png
+/data/img/train/VP41677/VP41677_6.png
+/data/img/train/VP41677/VP41677_7.png
+/data/img/train/VP41677/VP41677_8.png
+/data/img/train/VP41677/VP41677_9.png
+/data/img/train/VP41677/VP41677_10.png
+/data/img/train/VP41677/VP41677_11.png
+/data/img/train/VP41677/VP41677_12.png
+/data/img/train/VP41677/VP41677_13.png
+/data/img/train/VP41677/VP41677_14.png

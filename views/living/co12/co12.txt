@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/co12/co12_0.png
+/data/img/train/co12/co12_1.png
+/data/img/train/co12/co12_2.png
+/data/img/train/co12/co12_3.png
+/data/img/train/co12/co12_4.png
+/data/img/train/co12/co12_5.png
+/data/img/train/co12/co12_6.png
+/data/img/train/co12/co12_7.png
+/data/img/train/co12/co12_8.png
+/data/img/train/co12/co12_9.png
+/data/img/train/co12/co12_10.png
+/data/img/train/co12/co12_11.png
+/data/img/train/co12/co12_12.png
+/data/img/train/co12/co12_13.png
+/data/img/train/co12/co12_14.png

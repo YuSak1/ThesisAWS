@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/co8/co8_0.png
+/data/img/train/co8/co8_1.png
+/data/img/train/co8/co8_2.png
+/data/img/train/co8/co8_3.png
+/data/img/train/co8/co8_4.png
+/data/img/train/co8/co8_5.png
+/data/img/train/co8/co8_6.png
+/data/img/train/co8/co8_7.png
+/data/img/train/co8/co8_8.png
+/data/img/train/co8/co8_9.png
+/data/img/train/co8/co8_10.png
+/data/img/train/co8/co8_11.png
+/data/img/train/co8/co8_12.png
+/data/img/train/co8/co8_13.png
+/data/img/train/co8/co8_14.png

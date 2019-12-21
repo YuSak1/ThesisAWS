@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/et24/et24_0.png
+/data/img/train/et24/et24_1.png
+/data/img/train/et24/et24_2.png
+/data/img/train/et24/et24_3.png
+/data/img/train/et24/et24_4.png
+/data/img/train/et24/et24_5.png
+/data/img/train/et24/et24_6.png
+/data/img/train/et24/et24_7.png
+/data/img/train/et24/et24_8.png
+/data/img/train/et24/et24_9.png
+/data/img/train/et24/et24_10.png
+/data/img/train/et24/et24_11.png
+/data/img/train/et24/et24_12.png
+/data/img/train/et24/et24_13.png
+/data/img/train/et24/et24_14.png

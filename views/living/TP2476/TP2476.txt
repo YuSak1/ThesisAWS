@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/TP2476/TP2476_0.png
+/data/img/train/TP2476/TP2476_1.png
+/data/img/train/TP2476/TP2476_2.png
+/data/img/train/TP2476/TP2476_3.png
+/data/img/train/TP2476/TP2476_4.png
+/data/img/train/TP2476/TP2476_5.png
+/data/img/train/TP2476/TP2476_6.png
+/data/img/train/TP2476/TP2476_7.png
+/data/img/train/TP2476/TP2476_8.png
+/data/img/train/TP2476/TP2476_9.png
+/data/img/train/TP2476/TP2476_10.png
+/data/img/train/TP2476/TP2476_11.png
+/data/img/train/TP2476/TP2476_12.png
+/data/img/train/TP2476/TP2476_13.png
+/data/img/train/TP2476/TP2476_14.png

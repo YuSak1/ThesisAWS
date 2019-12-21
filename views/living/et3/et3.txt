@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/et3/et3_0.png
+/data/img/train/et3/et3_1.png
+/data/img/train/et3/et3_2.png
+/data/img/train/et3/et3_3.png
+/data/img/train/et3/et3_4.png
+/data/img/train/et3/et3_5.png
+/data/img/train/et3/et3_6.png
+/data/img/train/et3/et3_7.png
+/data/img/train/et3/et3_8.png
+/data/img/train/et3/et3_9.png
+/data/img/train/et3/et3_10.png
+/data/img/train/et3/et3_11.png
+/data/img/train/et3/et3_12.png
+/data/img/train/et3/et3_13.png
+/data/img/train/et3/et3_14.png

@@ -1,0 +1,17 @@
+img
+15
+/data/img/train/ct19/ct19_0.png
+/data/img/train/ct19/ct19_1.png
+/data/img/train/ct19/ct19_2.png
+/data/img/train/ct19/ct19_3.png
+/data/img/train/ct19/ct19_4.png
+/data/img/train/ct19/ct19_5.png
+/data/img/train/ct19/ct19_6.png
+/data/img/train/ct19/ct19_7.png
+/data/img/train/ct19/ct19_8.png
+/data/img/train/ct19/ct19_9.png
+/data/img/train/ct19/ct19_10.png
+/data/img/train/ct19/ct19_11.png
+/data/img/train/ct19/ct19_12.png
+/data/img/train/ct19/ct19_13.png
+/data/img/train/ct19/ct19_14.png
